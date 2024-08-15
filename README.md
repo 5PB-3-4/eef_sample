@@ -17,12 +17,12 @@
 [aviutl_exedit_sdk](https://github.com/5PB-3-4/aviutl_exedit_sdk)と同じフォルダ内にダウンロードしてください。
 ![フォルダ](https://github.com/5PB-3-4/eef_sample/blob/image/folder_sample.PNG)
 
-ビルドすると`eef_sample.eef`が生成されます。
 ```shell
 # 適当なフォルダにクローン
 git clone https://github.com/5PB-3-4/aviutl_exedit_sdk.git
 git clone https://github.com/5PB-3-4/eef_sample.git
 ```
+ビルドすると`eef_sample.eef`が生成されます。
 ```shell
 # ビルド
 cd eef_sample
