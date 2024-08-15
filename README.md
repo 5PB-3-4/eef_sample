@@ -20,7 +20,8 @@
 # 適当なフォルダにクローン
 git clone https://github.com/5PB-3-4/aviutl_exedit_sdk.git
 git clone https://github.com/5PB-3-4/eef_sample.git
-
+```
+```shell
 # ビルド
 cd eef_sample
 mingw32-make all
