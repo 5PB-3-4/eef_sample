@@ -1,5 +1,5 @@
 ﻿#include <windows.h>
-#include "exedit.hpp"
+#include "../aviutl_exedit_sdk/exedit.hpp"
 
 #define TRACK_N 2
 ExEdit::Filter ef, tef;
